@@ -2,14 +2,10 @@
 你好 ，git！bbbbbbb
 你好 ，git！bbbb
 你好 ，git！cccccccc
-ssfsfsfsfffffffffffsfdfff
 你好 ，git！
 你好 ，git！
 你好 ，git！hot-fix
 你好 ，git！master
-你好 ，git！
-你好 ，git！
-你好 ，git！
 你好 ，git！
 
 你好 ，呀呀呀
