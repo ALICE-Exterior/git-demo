@@ -1,8 +1,7 @@
-你好 ，git!aaaaaaaaa
+你好 ，git！aaaaaaa
 你好 ，git！bbbbbbb
-你好 ，git！bbbb
-你好 ，git！cccccccc
-你好 ，git！
+你好 ，git！ccccccc
+你好 ，git！ddddddd
 你好 ，git！
 你好 ，git！hot-fix
 你好 ，git！master
